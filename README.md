@@ -22,7 +22,7 @@ Go to your terminal or git bash and run conda activate dev to activate your cond
 
 conda install -c anaconda requests (Helps you access data via APIs) conda install -c jmcmurray json (Puts the response from an API into a human-readable format) pip install python-dotenv (Read key-value pairs from an environment file (.env) and add them as environment variables) pip install alpaca-trade-api (Alpaca is an API for stock trading. With the Alpaca SDK, you can interact with the Alpaca API)
 
-**Usage**
+**Instruction**
 ----
 Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the financial_planning_tools.ipynb in you Jupyter Lab Notebook.
 
